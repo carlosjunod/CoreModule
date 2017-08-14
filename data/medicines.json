@@ -7,14 +7,14 @@
 			"name": "Ibuprofen",
 			"brand": "Advil",
 			"mg": "600",
-			"alarm": "2pm"
+			"alarm": "Tue Aug 15 2017 23:24:48 GMT-0400 (EDT)"
 		},
 		{
 			"id": "02",
 			"name": "another",
 			"brand": "lalla",
 			"mg": "600",
-			"alarm": "3pm"
+			"alarm": "Tue Aug 15 2017 23:24:48 GMT-0400 (EDT)"
 		}
 	]
 }
